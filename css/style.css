@@ -1,0 +1,35 @@
+.arial {
+	font-family: arial;
+	color: #636161;
+}
+
+.monospace {
+	font-family: monospace;
+	color: #636161;
+}
+.red {
+	color: red;
+}
+.blue {
+	color: blue;
+}
+.green {
+	color: green;
+}
+.background_red {
+	background-color: red;
+}
+.background_blue {
+	background-color: blue;
+}
+.background_green {
+	background-color: green;
+}
+footer img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+footer p {
+	text-align: center;
+}
